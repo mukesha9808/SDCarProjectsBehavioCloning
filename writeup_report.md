@@ -130,4 +130,4 @@ I used this training data for training the model. The validation set helped dete
 ## Trained Model Performance
 Trained model was successful in clonning the driving behavior on track 1. Here is video demonstrating performance on track 1
 
-![alt text][video1]
+Here's a [link to my video result](./run1.mp4)
