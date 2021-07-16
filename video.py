@@ -19,7 +19,7 @@ def main():
         default=60,
         help='FPS (Frames per second) setting for the video.')
     args = parser.parse_args()
-
+    
     #convert file folder into list firltered for image file types
     image_list = sorted([os.path.join(args.image_folder, image_file)
                         for image_file in os.listdir(args.image_folder)])
